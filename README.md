@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # APIFAST - Services API
 
 Backend API built with Laravel 12 for managing services with OTP authentication and Trusted Device support.
@@ -52,3 +53,6 @@ Backend API built with Laravel 12 for managing services with OTP authentication 
 ## Custom Validation
 
 The project includes a custom validation rule `base64image` to ensure that the `foto_persona` field contains a valid Base64 encoded image.
+=======
+# API-REST
+>>>>>>> 37579bb7b27b5460069861c0726131a4cea61e0e
